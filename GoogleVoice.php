@@ -1,4 +1,4 @@
-<?php
+
 
 class GoogleVoice {
 	// Google account credentials.
